@@ -1,3 +1,8 @@
-pandas
 streamlit
-tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+os
+pyworkforce 
+pandasql
